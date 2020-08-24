@@ -16,4 +16,4 @@ Getting Started
 
 Import the kafka package from GitHub in your code:
 
-# import "github.com/confluentinc/confluent-kafka-go/kafka"
+import "github.com/confluentinc/confluent-kafka-go/kafka"
