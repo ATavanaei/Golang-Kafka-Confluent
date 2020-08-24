@@ -1,4 +1,4 @@
-#Confluent's Golang Client for Apache KafkaTM
+# Confluent's Golang Client for Apache KafkaTM
 confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform.
 
 Features:
